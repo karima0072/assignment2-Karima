@@ -83,6 +83,12 @@ They demonstrate:
 
 ---
 
+## UML Class Diagram
+
+Below is a class diagram for Vehicle Management System:
+
+![UML Diagram](docs/uml-diagram.png/uml-diagram.png.jpeg)
+
 ## Reflection
 
 Inheritance simplified the project structure because all vehicles share common fields
